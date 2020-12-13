@@ -1,3 +1,5 @@
+import modelo.Conta
+
 fun testaComportamentosDaConta() {
     val contaFelipe = Conta("Felipe Moreno Borges", 1001)
     contaFelipe.deposita(1800.00)

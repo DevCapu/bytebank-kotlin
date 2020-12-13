@@ -1,3 +1,5 @@
+package modelo
+
 class ContaSalario(
     titular: String,
     numero: Int

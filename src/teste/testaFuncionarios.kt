@@ -1,3 +1,8 @@
+package teste
+
+import modelo.*
+import testaComportamentosDaConta
+
 fun testaFuncionarios() {
     print(
         "Bem vindo ao ByteBank \n" + "*----------------------------------------*"

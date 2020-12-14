@@ -1,4 +1,4 @@
-import modelo.Conta
+import br.com.alura.bytebank.modelo.Conta
 
 fun testaComportamentosDaConta() {
     val contaFelipe = Conta("Felipe Moreno Borges", 1001)
